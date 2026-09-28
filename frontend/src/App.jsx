@@ -44,7 +44,7 @@ export function App() {
 
         <footer className="py-6 text-center text-sm border-t border-gray-800/60 mt-auto">
           <p className="text-gray-400 font-medium tracking-wide">
-            Made in love with <span className="text-white font-semibold">Vanshil</span> 😍😊
+            mere babu ne tana taaya?? 😍😊
           </p>
         </footer>
       </div>
